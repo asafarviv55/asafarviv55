@@ -3,7 +3,7 @@
 ### 🏗️ Fractional CTO & Cloud Architect
 **I help startups build production-ready systems that scale.**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=asafarviv55&show_icons=true&theme=radical&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 *(Note: Replace YOUR_USERNAME with your actual GitHub username)*
 
 ---
