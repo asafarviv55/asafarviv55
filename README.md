@@ -35,7 +35,7 @@ I don't just write code; I design systems. Explore my reference implementations:
 | 🏗️ Architecture | 🎯 Problem Solved | 🔧 Key Tech |
 | :--- | :--- | :--- |
 | **FleetMind Platform** <br> [Backend](https://github.com/asafarviv55/fleetmind-backend) &#124; [Frontend](https://github.com/asafarviv55/fleetmind-frontend) | **Logistics Optimization** <br> Managing real-time driver fleets & routing. | `Redis Streams` `PostGIS` `Python OR-Tools` |
-| **[Enterprise RAG Engine](./)** | **Knowledge Retrieval** <br> Private AI chat on sensitive company data. | `VectorDB` `Hybrid Search` `Embeddings` |
+| **[Enterprise RAG Engine](https://github.com/asafarviv55/enterprise-rag-engine)** | **Knowledge Retrieval** <br> Private AI chat on sensitive company data. | `VectorDB` `Hybrid Search` `Embeddings` |
 | **[SaaS Foundation](./)** | **Time-to-Market** <br> A secure, multi-tenant foundation for B2B apps. | `Multi-Tenancy` `CI/CD` `Microservices` |
 
 ---
