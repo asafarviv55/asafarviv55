@@ -48,3 +48,44 @@ I am currently available for **Consulting Retainers** and **Complex MVP Builds**
 * **Location:** Israel (Remote/Hybrid)
 
 ---
+---
+
+### 💼 How I Can Help (Services)
+
+As a **Fractional CTO**, I partner with startups to provide high-level strategic leadership combined with hands-on execution. I bridge the gap between business goals and technical reality.
+
+#### 1️⃣ From MVP to Production (Zero-to-One)
+> *For early-stage startups needing a solid foundation.*
+* **Architecture Design:** Selecting the right stack to ensure speed-to-market without technical debt.
+* **Cloud Setup:** Building secure, scalable infrastructure on AWS/GCP (Terraform/Docker).
+* **MVP Development:** Hands-on coding of core complex modules (Backend/AI).
+
+#### 2️⃣ Scaling & Performance Rescue
+> *For companies hitting growth pains or high cloud bills.*
+* **Bottleneck Analysis:** Identifying why the system is slow (Database indexing, caching strategies).
+* **Cost Optimization:** Auditing AWS/GCP resources to cut monthly bills by 30-50%.
+* **Refactoring:** Migrating monolithic legacy code to efficient Microservices.
+
+#### 3️⃣ AI & LLM Integration
+> *For businesses wanting to add "GenAI" capabilities.*
+* **RAG Implementation:** Building "Chat with your Data" features securely.
+* **Process Automation:** Using Agents (LangChain/Python) to replace manual back-office tasks.
+* **Feasibility Checks:** Rapid prototyping to see if AI actually solves the problem before investing millions.
+
+---
+
+### 🤝 Engagement Models
+
+* **Fractional CTO Retainer:** Monthly fixed engagement (e.g., 10-20 hours/week) to lead your tech team and strategy.
+* **Project-Based Architecture:** End-to-end design and delivery of a specific system (like the FleetMind platform).
+* **Technical Audit:** One-time deep dive into your code and infrastructure with a detailed report of risks and fixes.
+
+---
+
+### 📫 Let's Talk
+
+Ready to scale your product?
+
+* **Email:** asaf.arviv@gmail.com
+* **LinkedIn:** (https://www.linkedin.com/in/asaf-arviv/)
+* **Location:** Israel (Available for Remote/Global work)
